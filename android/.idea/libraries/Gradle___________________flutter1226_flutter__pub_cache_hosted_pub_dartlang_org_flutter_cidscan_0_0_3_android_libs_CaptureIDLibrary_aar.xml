@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./../../../../../flutter1226/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_cidscan-0.0.3/android/libs/CaptureIDLibrary.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c8decf7f8ae38e7f363b3bc61dab55c9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c8decf7f8ae38e7f363b3bc61dab55c9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c8decf7f8ae38e7f363b3bc61dab55c9/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
